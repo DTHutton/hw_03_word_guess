@@ -1,4 +1,5 @@
 layout basic html
+    word guess header
     instructions - 'press the any letter key to get started'
     win/loss counter
     current word - with '_ _ _ _' as the default format
